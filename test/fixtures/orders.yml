@@ -1,0 +1,14 @@
+# Read about fixtures at
+# http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: Aleks Szczurek
+  address: MyText
+  email: aleks@example.com
+  pay_type: check
+
+two:
+  name: MyString
+  address: MyText
+  email: MyString
+  pay_type: MyString
